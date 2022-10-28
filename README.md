@@ -1,0 +1,3 @@
+# FastingApp
+
+SwiftUI + Combine + Animations
